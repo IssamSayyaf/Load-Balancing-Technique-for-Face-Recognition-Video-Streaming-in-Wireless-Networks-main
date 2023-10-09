@@ -1,5 +1,5 @@
 # Load-Balancing-Technique-for-Face-Recognition-Video-Streaming-in-Wireless-Networks
-This project has been done in collaboration with Mohamad Issam Sayyaf
+This project has been done in collaboration with Ahmad Mahmod
 
 # Introduction
 The ever-increasing demand for high-quality video streaming has posed significant challenges for wireless networks. With limited bandwidth and varying network conditions, ensuring a seamless streaming experience for users has become a complex task. Load balancing techniques play a crucial role in optimizing network resources, mitigating congestion, and delivering uninterrupted video playback. This report focuses on the implementation of load balancing technique specifically tailored for video streaming in wireless networks using Mininet WiFi and the RYU controller.
