@@ -1,3 +1,7 @@
+'''
+DEVELOPER: Mohamad Issam Sayyaf
+EMAIL: issamsayyaf97@gmail.com
+'''
 from http import server
 from math import inf
 from multiprocessing import Process
