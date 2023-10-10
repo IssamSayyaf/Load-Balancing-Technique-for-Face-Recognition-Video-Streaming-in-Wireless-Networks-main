@@ -1,3 +1,7 @@
+'''
+DEVELOPER: Mohamad Issam Sayyaf
+EMAIL: issamsayyaf97@gmail.com
+'''
 from math import inf
 from symbol import del_stmt
 import time
