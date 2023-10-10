@@ -1,4 +1,9 @@
 '''
+DEVELOPER: Mohamad Issam Sayyaf
+EMAIL: issamsayyaf97@gmail.com
+'''
+
+'''
 Sure, here's a step-by-step explanation of the code:
 
 Import necessary modules:
